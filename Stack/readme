@@ -1,1 +1,4 @@
 
+The code here demonstrates that how may we write code to create out own classes that can be used.
+
+Here I have written myCode to create a library for stack DataStructure, both Simple Stack and Growable Stack as well.
